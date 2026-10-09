@@ -8,7 +8,7 @@
 
 ### Since leaving active duty, I joined the Air National Guard as a 1B411 Cyber Warfare Operator, earned my Bachelor of Science in Cybersecurity, and hold a CompTIA Security+ certification. 🥳
 
-- I'm currently working on cyber labs
+- I'm currently working on basic cyber labs that prove I can perform as an analyst, logging and triaging security issues
 - I'm currently learning Splunk basics
 - I'm looking for help with where to focus next for an L1 SOC Analyst position
  
