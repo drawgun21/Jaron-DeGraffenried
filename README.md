@@ -4,7 +4,7 @@
 
 ## Who?
 
-I am a six-year Air Force battle command operations veteran and a recent graduate transitioning into Cybersecurity
+I'm a six-year Air Force battle command operations veteran and a recent graduate transitioning into Cybersecurity
 
 ## Goal
 
