@@ -8,7 +8,7 @@ I'm a six-year Air Force battle command operations veteran and a recent graduate
 
 ## Goal
 
-My objective is to better align myself to being a capable cybersecurity analyst and joining a Security Operations Center as a Tier 1 Analyst. This portfolio will hopefully highlight and showcase some of my capabilities so that anyone looking (I'm talking to you, tech recruiters) will be able to see that I'm not just another individual who has an expensive piece of paper backing up my claim to fame in the industry
+My objective is to better align myself to being a capable cybersecurity analyst and to join a Security Operations Center as a Tier 1 Analyst. This portfolio will hopefully highlight and showcase some of my capabilities so that anyone looking (I'm talking to you, tech recruiters) will be able to see that I'm not just another individual who has an expensive piece of paper backing up my claim to fame in the industry
 
 ## Recent Accomplishments
 
