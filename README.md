@@ -39,7 +39,7 @@ Since leaving active duty, I:
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
- ## Eventual skills through projects I've gained/accomplished
+ ## Eventual skills through projects I've accomplished
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
