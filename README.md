@@ -8,14 +8,13 @@ I'm a six-year Air Force battle command operations veteran and a recent graduate
 
 ## Goal
 
-My objective is to better align myself to being a capable cybersecurity analyst and to join a Security Operations Center as a Tier 1 Analyst. This portfolio will hopefully highlight and showcase some of my capabilities so that anyone looking (I'm talking to you, tech recruiters) will be able to see that I'm not just another individual who has an expensive piece of paper backing up my claim to fame in the industry
+My objective is to better align myself to being a capable cybersecurity analyst and to join a Security Operations Center as a Tier 1 Analyst. This portfolio will hopefully highlight and showcase some of my capabilities so that anyone looking (I'm talking to you, tech recruiters) will be able to see that I'm not just another individual who has an expensive piece of paper backing up their claim to fame in the industry
 
 ## Recent Accomplishments
 
-Since leaving active duty, I:
-- joined the Air National Guard as a 1B411 Cyber Warfare Operator
-- Earned my B.S. in Cybersecurity
-- Earned a CompTIA Security+ certification 🥳
+- CompTIA Security+ certification - Apr2024
+- Joined the Air National Guard as a 1B411 Cyber Warfare Operator - Sep2025
+- Bachelor of Science in Cybersecurity - Sep2026
 
 ## Tools I'm familiar with
 
