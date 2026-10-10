@@ -8,7 +8,7 @@
 
 ### As I neared the end of service, I pivoted toward cybersecurity. While the transition has been challenging, it has been incredibly rewarding.
 
-### Since leaving active duty, I joined the Air National Guard as a 1B411 Cyber Warfare Operator, earned my Bachelor of Science in Cybersecurity, and hold a CompTIA Security+ certification. 🥳
+### Since leaving active duty, I joined the Air National Guard as a 1B411 Cyber Warfare Operator, earned my B.S. in Cybersecurity, and hold a CompTIA Security+ certification. 🥳
 
 ## Tools
 
